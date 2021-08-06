@@ -28,7 +28,7 @@
               <a href="/admin/users">Users</a>
           </li>
           <li>
-              <a href="/admin/latest-recipes">Latest Users</a>
+              <a href="/admin/latest-recipes">Latest Recipes</a>
           </li>
       </ul>
   </nav>
