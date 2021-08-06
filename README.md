@@ -1,3 +1,10 @@
+## Functionalities of Website
+    -- User Creates Account- Account Verification Mail, Forget Password Functionality
+    -- User can add Recipes with Image and Description
+    -- Search by Recipes Categories
+    -- Add to Favorite
+    -- Admin Panel Display All Users, Show Latest Recipes, Send Gift Users and also send them mail that gift has been send to you.
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
